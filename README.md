@@ -10,10 +10,13 @@ Invite Tab: Here you have to Insert the Peoples whom you going to send the Meeti
 
 ![Invite Tab of OUtlook Meeting Invite Screen](https://github.com/mindlabco/Explore-Newly-Launched-Meeting-Invite-Screen-into-the-PowerApps/blob/master/Invite.png)
 
+
 Schedule Tab: Into Schedule Tab you have to Enter the details of Date, Time, and Place of the Meeting.
 
 ![Schedule Tab of Outlook Meeting Invite Screen](https://github.com/mindlabco/Explore-Newly-Launched-Meeting-Invite-Screen-into-the-PowerApps/blob/master/Schedule.png)
 
+
 After all the Configuration click on the Send button placed at the Upper right corner of the Screen.
 
 ![Email Of Meeting Invite ](https://github.com/mindlabco/Explore-Newly-Launched-Meeting-Invite-Screen-into-the-PowerApps/blob/master/Meeting_Invite.png)
+
